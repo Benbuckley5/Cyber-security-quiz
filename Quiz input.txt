@@ -1,0 +1,59 @@
+Antivirus: Software designed to detect, stop and remove viruses and malicious software.
+Allowed list:  Same as whitelisting
+App: Short for application, typically refers to a software program for a smartphone or tablet.
+Attacker: Malicious actor who seeks to exploit computer systems with the intent to change, destroy, steal or disable their information and then exploit the outcome.
+Botnet: A network of ‘owned’/infected devices connected to the internet used to commit co-ordinated cyber attacks without their owners knowledge. Example attacks include distributed-denial-of-service attacks (DDos) attacks.
+Breach: An incident in which data, computer systems or networks are accessed or affected in a non-authorised way.
+Browser: A software application which presents information and services from the web. 
+Brute Force attack: Using computational power to automatically enter a huge number of combinations of values, usually in order to discover passwords ang gain access.
+Bring your own device (BYOD): An organizations strategy or policy that allows employees to use their own personal devices for work purposes.
+Certificate: A form of digital identity for a computer, user or organization to allow the authentication and secure exchange of information. 
+Cloud: Where shared compute and storage resources are accessed as a service (usually online), instead of hosted locally on physical services.
+Credentials: A user’s authentication information used to identify – typically one or more of a password, token, certificate.
+Cyber attack: Malicious attempts to damage, disrupt or gain unauthorized access to computer systems, networks or devices, via cyber means.
+Cyber incident: A breach of the security rules for a system or service – Most commonly
+-	Attempts to gain unauthorized access to a system or data.
+-	Unauthorized use of systems for the processing or storage of data.
+-	Changes to a systems firmware, software or hardware without the system owners consent, eg installing a rootkit.
+-	Malicious disruption or denial of service.
+Cyber security: The protection of devices, services and networks and the information on them from theft or damage.
+Data at rest: Data in persistent storage mediums such as hard disks, removable media or backups.
+Deny list: Access control mechanism that blocks named entities from communicating with a computer, site or network.
+Dictionary attack: A type of Brute force attack in which the attacker uses known dictionary words, phrases or common passwords as their guesses.
+Download attack: The unintentional installation of malicious software or viruses onto a device without the users knowledge or consent (Also known as a drive-by download).
+Denial of service (DoS): When legitimate users are denied access to computer services (or resources), usually by overloading the service with requests.
+Digital footprint: A ‘footprint’ of digital information that a users online activity leaves behind.
+Encryption: A mathematical function that protects information by making it unreadable by everyone except those with the keys to decrypt it.
+End user device: Collective term to describe modern smartphones, laptops and tablets that connect to an organizations network.
+Exploit: May refer to software or data that takes advantage or a vulnerability in a system to cause unintended consequences.
+Firewall: Hardware or software that uses a defined ruleset to constrain network traffic to prevent unauthorized access to and from a network.
+Hacker: Someone with computer skills who uses them to break into computers, systems and networks.
+Honeypot (Honeynet):  Decoy system or network to attract potential attackers that helps limit access to actual systems by detecting and deflecting or learning from an attack. Multiple honeypots for a honeynet.
+Incident: Same as cyber incidents.
+Insider risks: The potential for damage to be done maliciously or inadvertently by a legitimate user with privileged access to systems, networks or data. 
+Internet of things (IoT): Refers to the ability of everyday objects (rather than computers) to connect to the internet. Examples include kettles, fridges, thermometers and TVs.
+Macro: A small program that can automate tasks in applications (e.g. Microsoft Office) which an attacker can use to gain access to or harm a system.
+Malvertising: Using online advertising as a delivery method for malware.
+Malware: Malicious software – includes viruses, trojans, worms or any code or content that could have an adverse impact on organization or individuals. 
+Mitigation: Steps organizations and individuals can take to minimize and address risk.
+Network: Two or more computers linked in order to share resources. 
+Patching: Applying updates to firmware or software to improve security and/or improve security and/or enhance functionality.
+Pentest: An authorized test of a computer network or system designed to look for security weaknesses so they can be fixed (short for penetration testing).
+Pharming: An attack on network infrastructure that results in a user being directed to an illegitimate website despite the user having entered the correct address.
+Phishing: Untargeted, mass emails sent to many people asking for sensitive information (e.g. bank details) or encouraging them to visit a fake website.
+Ransomware: Malicious software that renders data or systems unusable until the victim makes a payment.
+Router: A network device that sends data packets from one network to another based on the destination address.
+Social engineering: Manipulating people into carrying out specific actions, or divulging information, that’s of use to an attacker.
+Software as a Service (SaaS): Describes a business model where consumers access centrally-hosted software applications over the internet.
+Spear-Phishing: Targeted phishing where the email is designed to look like its from a person the recipient knows and/or trusts.
+Smishing: Phishing via SMS – mass text messages sent to users asking for sensitive information (e.g. bank details) or encouraging them to visit a fake website.
+Sanitisation: Using electronic or physical destruction methods to securely erase or remove data from memory.
+Trojan: A type or virus or Malware disguised as legitimate software that is used to hack into the victims computer. 
+Two-factor authentication (2FA): The use of two different components to verify a users claimed identity (Also known as multi factor authentification).
+Virus: Programs which can self replicate and are designed to infect legitimate software programs or systems. This is a form of Malware.
+Virtual Private Network (VPN): An encrypted network often created to allow secure connections for remote users, e.g. when an organization has offices in multiple locations.
+Vulnerability: A weakness or flaw in software, a system or process. An attacker may seek to exploit a vulnerability to gain unauthorized access to a system. 
+Water-holing (Watering hole attack): Setting up a fake website (or compromising a real one) in order to exploit visiting users.
+Whaling: Phishing attacks on high value targets, e.g. senior executives.
+Whitelisting: Authorizing approved applications for use within organizations in order to protect systems from potentially harmful applications.
+Zero-Day: Recently discovered vulnerabilities or bugs not yet know to vendors or antivirus companies that attackers can exploit.
